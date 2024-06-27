@@ -4,7 +4,7 @@
  1. Στο terminal τρέξε git clone https://github.com/thankuxari/SimasiologikosIstos.git (Προηπόθεση πως το git είναι εγκατεστημένο στον υπολογιστή)
  2. Κατέβασε τα libraries που απαιτούνται για τον κώδικα με το pip install
     #### Libraries
-        pip install twitter
+        pip install python-twitter
         pip install networkx
         pip install numpy
         pip install matplotlib
